@@ -2,4 +2,4 @@
 echo "this is from Github"
 NUMBER=$(($NUMBERONE + $NUMBERTWO))
 echo "$NUMBER"
-echo "Git git git commit!"
+echo "Git git commit!"
